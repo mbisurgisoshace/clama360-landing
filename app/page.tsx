@@ -24,7 +24,7 @@ export default function Home() {
             alt="Clama360 logo"
             className="h-[30px] w-[350px] sm:h-[60px] sm:w-[240px] object-contain"
           />
-          <h3 className="font-bold text-[#0F172A] text-xl align-center">
+          <h3 className="font-bold text-[#0F172A] text-xl text-center">
             Estamos trabajando en nuestra página web
           </h3>
         </div>
